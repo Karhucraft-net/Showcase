@@ -19,6 +19,9 @@ Welcome to the official GitHub repository for **Karhucraft**, Finland's newest a
 
 ## 🛠️ Featured Projects
 
+Upcoming...
+
+<!--
 ### Core Systems
 [![Karhucraft-Core](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Karhucraft-Core&theme=dark)](https://github.com/yourusername/Karhucraft-Core)
 Our main server core handling economy, ranks, and core functionalities.
@@ -30,7 +33,7 @@ Plugin for all our unique weapons, tools, and armor with special abilities.
 ### Shop System
 [![Shop-System](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Karhucraft-Shops&theme=dark)](https://github.com/yourusername/Karhucraft-Shops)
 Advanced player shop and auction house system.
-
+-->
 ## 💻 Code Highlights
 
 ### Custom Rank System
